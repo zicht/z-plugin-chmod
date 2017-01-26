@@ -3,4 +3,4 @@
 Hooks into build to chmod certain sets as files
 
 # Maintainer(s)
-* Gerard van Helden <gerard@zicht.nl>
+* Philip Bergman <philip@zicht.nl>
